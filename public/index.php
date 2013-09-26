@@ -17,4 +17,4 @@ $nomClasseControleur= getNomClasse('C',$nomControleur);
 $objetControleur=new $nomClasseControleur();
 $objetControleur->setVue($vue);
 $objetControleur->$action();
-//vive le vent d'hiver
+//vive le vent d'hiver en afrique
