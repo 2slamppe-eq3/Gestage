@@ -2,7 +2,7 @@
 require("../includes/fonctions.inc.php");
 //recherche du nom du controleur
 $nomControleur= getRequest("controleur", "accueil");
-// test!!!
+
 //recherche du nom de l'action
 $action= getRequest("action", "index");
 
