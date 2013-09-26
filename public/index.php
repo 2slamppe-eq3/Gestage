@@ -18,3 +18,4 @@ $objetControleur=new $nomClasseControleur();
 $objetControleur->setVue($vue);
 $objetControleur->$action();
 //vive le vent d'hiver
+// test n°18665
